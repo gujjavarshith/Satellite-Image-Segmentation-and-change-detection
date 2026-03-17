@@ -39,7 +39,7 @@ CLASS_COLORS_BGR = [
 	(0, 100, 0),    # tree			  dark green
 	(255, 0, 0),    # water			  blue
 	(0, 0, 255),    # building        red
-	(0, 255, 255),  # playground      cyan
+	(0, 255, 255),  # playground      cyan/yellow
 ]
 
 IMG_SIZE = 256
