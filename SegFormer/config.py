@@ -33,13 +33,13 @@ LABEL_VALUES = [0, 29, 38, 75, 76, 128, 149]
 
 # OpenCV writes/reads in BGR order.
 CLASS_COLORS_BGR = [
-	(0, 0, 0),      # non_change
-	(34, 139, 34),  # low_vegetation
-	(80, 127, 255), # nvg_surface
-	(0, 100, 0),    # tree
-	(255, 0, 0),    # water
-	(0, 0, 255),    # building
-	(0, 255, 255),  # playground
+	(0, 0, 0),      # non_change      black
+	(34, 139, 34),  # low_vegetation  green
+	(80, 127, 255), # nvg_surface     coral
+	(0, 100, 0),    # tree			  dark green
+	(255, 0, 0),    # water			  blue
+	(0, 0, 255),    # building        red
+	(0, 255, 255),  # playground      cyan
 ]
 
 IMG_SIZE = 256
